@@ -75,6 +75,10 @@ load:0x403c8704,len:0xd20
 ## Emoji
 :+1:
 
+## LINK
+Ovaj projekt koristi [MIT licencu](LICENSE).
+[CHANGELOG.md](CHANGELOG.md).
+
 ## Check lista
 - [x] Kreirati GitHub repozitorij nazvan atp-ispit01
 - [x] Dodati naslov projekta (H1)
@@ -82,7 +86,7 @@ load:0x403c8704,len:0xd20
 - [x] Preuzeti i dodati sve slike iz Wikipedije (ukupno 3)
 - [x] Dodati primjer koda s Gists
 - [x] Dodati link na izvore slike i teksta
-- [ ] Linkati README.md i LICENSE.md
+- [x] Linkati README.md i LICENSE.md
 - [x] Napraviti popis (numerički i ne-numerički)
 - [x] Izraditi tablicu s informacijama o projektu
 - [x] Dodati citat koristeći Markdown
